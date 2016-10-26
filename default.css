@@ -375,6 +375,8 @@ img.right {
 }
 
 #footer a {
+	color: #616161;
+	float: left;
 }
 
 #footer .link {
